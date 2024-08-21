@@ -123,7 +123,7 @@ necis,-1
 estetis,-1
 baper,-4
 perfek,-1
-tolong,-4
+tolong,-2
 sayid,-1
 radang,-4
 didih,-4
@@ -167,8 +167,7 @@ ngambek,-5
 ampun,-3
 terbalik akal,-4
 tidak masuk akal,-4
-gangguan jiwa,-5
-gangguan,-5
+gangguan jiwa,-4
 majenun,-2
 gelo,-2
 gila-gila,-4
@@ -410,8 +409,6 @@ terjerembab,-2
 luruh,-2
 tergelincir,-3
 terbuang,-2
-uang,0
-mesin,0
 berhenti (tugas),-2
 gogrok,-3
 jelabak,-3
@@ -599,6 +596,7 @@ tobat,-2
 mentang-mentang,-4
 meringankan,-1
 astagfirullah,-4
+memudahkan,-1
 titip api,-1
 mencebikkan,-3
 fokus,-2
@@ -692,7 +690,7 @@ memperduakan,-3
 regenerasi,-2
 gubrisan,-2
 pengindahan,-2
-ribet,-5
+ribet,-4
 master,-1
 iri,-5
 tetap hati,-1
@@ -1110,7 +1108,7 @@ bengkak hati,-3
 kekosongan,-3
 dendam,-5
 gaenak,-3
-susahnya,-5
+susahnya,-3
 mucikari,-5
 maapkan,-3
 vulgar,-3
@@ -1125,7 +1123,6 @@ kesepian,-4
 pesan,-3
 bergelanggang,-3
 bersalah,-4
-salah,-7
 kampit,-1
 menunggunya,-2
 mendengu,-3
@@ -1953,13 +1950,9 @@ konsekuensi,-3
 lapang hati,-1
 pajak,-3
 yodah,-2
-gagal,-5
+gagal,-4
 pasrah,-3
 menumbuk,-3
-tolong,-5
-perbaiki,-5
-diperbaiki,-5
-perbaiki, -5
 menyisihkan,-2
 terajam,-4
 tkde,-1
@@ -2127,7 +2120,6 @@ bom,-1
 celampak,-3
 kerubung,-3
 bangan,-3
-buruk,-5
 sentuh asa,-1
 cengkerama,-2
 tau,-4
@@ -2136,7 +2128,7 @@ enak,-4
 gubris,-2
 masuk,-3
 kayak,-3
-buruk,-7
+buruk,-5
 api,-2
 caplok,-3
 pihak,-3
@@ -2185,10 +2177,8 @@ tumpu,-3
 jepit,-4
 gulir,-3
 panik,-4
-bug,-5
 malang,-5
 leceh,-5
-bermasalah,-5
 mau,-1
 gantung,-3
 tekuk lutut,-3
@@ -2199,7 +2189,7 @@ suci,-1
 lesit,-1
 rebak,-3
 satu,-1
-susah,-7
+susah,-3
 balik,-3
 lancar,-2
 kobar,-2
@@ -2741,6 +2731,7 @@ membalik belakang,-5
 berselang,-3
 tais,-3
 kelasah-kelusuh,-5
+orang-orangan,-3
 gencet,-5
 termuat,-3
 membersihkan,-5
@@ -3819,6 +3810,7 @@ bertikai pangkai,-4
 harap-harap cemas,-3
 warita,-4
 bawa,-3
+mempermudah,-3
 merobohkan,-5
 besar rabu,-3
 surih,-3
@@ -3923,6 +3915,7 @@ batu berdahak,-4
 gegap,-5
 lotong,-4
 memperkacaukan,-4
+membantu,-4
 gemaung,-3
 pekak,-3
 tertulang,-5
@@ -4659,6 +4652,7 @@ tumpasan,-5
 susur tangan,-3
 safinah,-3
 robek,-3
+aplikasi,-4
 mustaka,-3
 menunggu,-3
 cekatan,-3
@@ -5577,6 +5571,7 @@ beol,-5
 caruk,-4
 mencengkam,-4
 kenan,-3
+bagus,-4
 berbanding,-3
 carut,-5
 sipongang,-3
@@ -5624,8 +5619,7 @@ memosisikan,-5
 demonstrasi,-3
 mengambang,-5
 kepenatan,-4
-kekecewaan,-5
-kecewa,-5
+kekecewaan,-3
 caci maki,-5
 menangkal,-4
 membandingkan,-3
@@ -6366,7 +6360,6 @@ komunitas,-3
 silang sengketa,-4
 berbenturan,-4
 korek api,-4
-lambat,-5
 lambat-lambat,-4
 adu,-3
 pemantik api,-4
