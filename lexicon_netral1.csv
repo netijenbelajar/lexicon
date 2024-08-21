@@ -1,29 +1,29 @@
-mesin,1
+mesin,0
 bank,0
-nasabah,1
-pinjaman,1
+nasabah,0
+pinjaman,0
 kartu,0
 cek,0
-pulsa, 1
-aplikasi,1
-pokoknya,1
-aktivasi,1
+pulsa, 0
+aplikasi,0
+pokoknya,0
+aktivasi,0
 kode,0
-verifikasi,1
+verifikasi,0
 fitur,0
 handphone,0
 pakai,0
 nasabah,0
 bsi,0
 pembayaran,0
-banking,1
+banking,0
 bunga,0
 saldo,0
 transaksi,0
 rekening,0
 pembayaran,0
 cabang,0
-ATM,1
+ATM,0
 setoran,0
 penarikan,0
 tabungan,0
@@ -31,34 +31,34 @@ investasi,0
 pelayanan,0
 kredit,0
 debit,0
-internet,1
+internet,0
 mobile,0
 aman,0
 resiko,0
-keamanan,1
+keamanan,0
 limit,0
 biaya,0
-pengiriman,1
+pengiriman,0
 tarik,0
 kantor,0
-cabang,1
-wajah, 1
-cs,1
+cabang,0
+wajah, 0
+cs,0
 sistem,0
-login,1
-logout,1
-log in, 1
-log out, 1
+login,0
+logout,0
+log in, 0
+log out, 0
 transfer,0
 kehabisan,0
 kantor,0
 cabang,0
 uang,0
-pesan,1
+pesan,0
 singkat,0
 nomor,0
 kemarin,0
-jaringan,1
+jaringan,0
 permintaan,
 transfer,0
 konfirmasi,0
