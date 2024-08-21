@@ -4,11 +4,13 @@ nasabah,1
 pinjaman,1
 kartu,0
 cek,0
+pulsa, 1
 aplikasi,1
 pokoknya,1
 aktivasi,1
 kode,0
-verifikasi,0
+verifikasi,1
+fitur,0
 handphone,0
 pakai,0
 nasabah,0
@@ -48,12 +50,15 @@ logout,1
 log in, 1
 log out, 1
 transfer,0
-kehabisan,1
+kehabisan,0
+kantor,0
+cabang,0
+uang,0
 pesan,1
 singkat,0
 nomor,0
 kemarin,0
-jaringan,0
+jaringan,1
 permintaan,
 transfer,0
 konfirmasi,0
