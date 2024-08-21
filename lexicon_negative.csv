@@ -168,7 +168,7 @@ ampun,-3
 terbalik akal,-4
 tidak masuk akal,-4
 gangguan jiwa,-5
-gangguan,-3
+gangguan,-5
 majenun,-2
 gelo,-2
 gila-gila,-4
@@ -805,7 +805,7 @@ dengkik,-4
 takda,-2
 obat,-3
 tetua,-2
-error,-5
+error,-7
 anugerah,-1
 dongeng,-1
 jir,-3
@@ -1125,6 +1125,7 @@ kesepian,-4
 pesan,-3
 bergelanggang,-3
 bersalah,-4
+salah,-7
 kampit,-1
 menunggunya,-2
 mendengu,-3
@@ -2124,6 +2125,7 @@ bom,-1
 celampak,-3
 kerubung,-3
 bangan,-3
+buruk,-5
 sentuh asa,-1
 cengkerama,-2
 tau,-4
@@ -2181,8 +2183,10 @@ tumpu,-3
 jepit,-4
 gulir,-3
 panik,-4
+bug,-7
 malang,-5
 leceh,-5
+bermasalah,-7
 mau,-1
 gantung,-3
 tekuk lutut,-3
@@ -2193,7 +2197,7 @@ suci,-1
 lesit,-1
 rebak,-3
 satu,-1
-susah,-5
+susah,-7
 balik,-3
 lancar,-2
 kobar,-2
@@ -5620,7 +5624,6 @@ mengambang,-5
 kepenatan,-4
 kekecewaan,-5
 kecewa, -5
-
 caci maki,-5
 menangkal,-4
 membandingkan,-3
