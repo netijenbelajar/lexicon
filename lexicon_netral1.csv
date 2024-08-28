@@ -1,5 +1,15 @@
 mesin,0
+buka,0
+orang,0
+mbanking,0
+pesan singkat,0
+langsung,0
+fitur,0
+migrasi,0
+pengguna,0
 bank,0
+muncul,0
+menu,0
 nasabah,0
 pinjaman,0
 kartu,0
@@ -17,11 +27,14 @@ pembayaran,0
 banking,0
 bunga,0
 saldo,0
+data,0
+update,0
 transaksi,0
 rekening,0
 pembayaran,0
 cabang,0
 ATM,0
+aplikasinya,0
 setoran,0
 penarikan,0
 tabungan,0
@@ -57,6 +70,7 @@ jaringan,0
 permintaan,0
 transfer,0
 konfirmasi,0
+pulsa,0
 verifikasi,0
 mutasi,0
 syarat,0
@@ -91,6 +105,7 @@ kontrak,0
 perjanjian,0
 regulasi,0
 kepatuhan,0
+uang,0
 komisi,0
 administrasi,0
 proteksi,0
