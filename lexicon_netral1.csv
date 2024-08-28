@@ -1,5 +1,9 @@
 mesin,0
 buka,0
+reinstall,0
+tahunan,0
+internet,0
+atm,0
 daftar,0
 riwayat,0
 handphone,0
@@ -41,11 +45,13 @@ bunga,0
 saldo,0
 data,0
 update,0
+logo,0
+muncul,0
 transaksi,0
 rekening,0
 pembayaran,0
 cabang,0
-ATM,0
+atm,0
 aplikasinya,0
 setoran,0
 penarikan,0
